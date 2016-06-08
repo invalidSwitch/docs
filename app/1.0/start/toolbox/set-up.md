@@ -17,7 +17,7 @@ App Toolbox template in less than 15 minutes.
     officially supported. Versions below LTS are not supported.
 
 1.  Install the Polymer CLI
-
+        sudo su
         npm install -g polymer-cli
 
 ## Initialize your project from a template
